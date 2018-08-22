@@ -15,7 +15,7 @@ body, html {
 padding: 10px;
 margin: 10px auto;  
 height:600px;
- 
+ column-count: 3;
 }
 .column {
 width:30%;
